@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pg (1.2.3)
+    rack (2.2.3)
+    rdoc (6.3.2)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  pg
+  rack
+  rdoc
+
+BUNDLED WITH
+   2.2.26
